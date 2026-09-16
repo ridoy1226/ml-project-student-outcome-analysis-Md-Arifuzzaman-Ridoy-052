@@ -1,4 +1,4 @@
-# Student Academic Performance
+# Student Outcome Analysis
 
 ## Team Members
 
